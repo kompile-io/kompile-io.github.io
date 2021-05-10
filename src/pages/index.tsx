@@ -11,7 +11,6 @@ const headingAccentStyles = {
   color: "#663399",
 }
 
-
 // markup
 const HomePage = () => {
   return (
